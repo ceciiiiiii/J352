@@ -10,8 +10,20 @@ h1{
 p{
   font-family: 'Dosis', sans-serif;
 }
+h3{
+  margin-left:30px;
+}
 .headbox{
   background-color: #1770D0;
   padding: 50px 20px 20px 10 px;
   text-align:center;
+}
+.background{
+  background-color: #1770D0;
+  color:#9AE2CA;
+  text-align:center;
+}
+img.resize {
+  width: 400px;
+  height: auto;
 }
